@@ -1,5 +1,18 @@
 # 💫 About Me:
-💼 Power BI Developer & Data Analyst with hands-on experience building professional dashboards using real-world datasets in Real Estate, Finance, HR, and E-comm
+Data Analyst with strong hands-on experience in SQL (PostgreSQL), Power BI, and real-world KPI-driven analytics.
+
+I specialize in transforming raw data into meaningful insights, dashboards, and business-ready reports. I have worked extensively on large datasets (10K–100K+ rows) and solved freelancer-style, real project scenarios rather than textbook problems.
+
+What I do best:
+• Write clean, optimized PostgreSQL queries
+• Build KPI-based reports using SQL
+• Create interactive Power BI dashboards
+• Perform data cleaning, analysis, and visualization
+• Convert business questions into actionable insights
+
+Built 1000+ SQL queries, 1600+ unique KPI-style problems, and multiple end-to-end analytics projects.
+
+Focused on becoming a high-impact Data Analyst with a strong portfolio and real-world problem-solving mindset.
 
 
 ## 🌐 Socials:
