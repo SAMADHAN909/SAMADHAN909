@@ -1,18 +1,16 @@
 # 💫 About Me:
-Data Analyst with strong hands-on experience in SQL (PostgreSQL), Power BI, and real-world KPI-driven analytics.
+📊 Data Analyst | SQL (PostgreSQL) | Power BI | Data Analytics  
+🚀 Data Analyst with strong hands-on experience in SQL (PostgreSQL), Power BI, and real-world KPI-driven analytics.
+🔍 I specialize in transforming raw data into meaningful insights, business-ready reports, and interactive dashboards. I have worked extensively with large datasets (10K–100K+ rows) and solved real freelancer-style project scenarios, not just theoretical problems.
+💡 What I do best:
+• 🧠 Write clean, optimized, and accurate PostgreSQL queries  
+• 📈 Build real-world KPI-based reports using SQL  
+• 📊 Design interactive Power BI dashboards (cards, charts, slicers)  • 🧹 Perform data cleaning, analysis, and visualization  
+• 🎯 Convert business questions into actionable data insights  
+🏗️ Built 1000+ SQL queries, 1600+ unique KPI-style SQL problems, and multiple end-to-end analytics projects based on real business use cases.
+🎯 Focused on building a strong Data Analyst portfolio, solving real-world data problems, and growing as a high-impact Data Analyst.
 
-I specialize in transforming raw data into meaningful insights, dashboards, and business-ready reports. I have worked extensively on large datasets (10K–100K+ rows) and solved freelancer-style, real project scenarios rather than textbook problems.
-
-What I do best:
-• Write clean, optimized PostgreSQL queries
-• Build KPI-based reports using SQL
-• Create interactive Power BI dashboards
-• Perform data cleaning, analysis, and visualization
-• Convert business questions into actionable insights
-
-Built 1000+ SQL queries, 1600+ unique KPI-style problems, and multiple end-to-end analytics projects.
-
-Focused on becoming a high-impact Data Analyst with a strong portfolio and real-world problem-solving mindset.
+📌 Tools & Skills: PostgreSQL | SQL | Power BI | Excel | Data Analysis | KPI Reporting
 
 
 ## 🌐 Socials:
